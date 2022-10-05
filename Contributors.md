@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Muhammad Ahsan](https://github.com/Muhammad-Ahsan-Rasheed)
 - [Xevziler](https://github.com/Xevziler)
 - [Pokruk](https://github.com/Pokruk)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
